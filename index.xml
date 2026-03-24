@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Program 26-03-24</title>
+    <link>https://quartz.jzhao.xyz/Haftal%C4%B1k-Programlar/Program-26-03-24</link>
+    <guid>https://quartz.jzhao.xyz/Haftal%C4%B1k-Programlar/Program-26-03-24</guid>
+    <description><![CDATA[ Haftalık Program — 2026-03-24, Tuesday YKS’ye: 88 gün (rehberlikten 6 gun sonra lol) sistem hakkinda eksiklerim var illaki ama fazlalik daha fazla ozelliklerin hepsini yazicam degerlendiricem Derslerin altinda: konu kitap, bence bayagi detayli ve ise yarar kaynaklar, aktif olarak isime yaramiyo ama ... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 17:52:00 GMT</pubDate>
+  </item><item>
+    <title>Fizik</title>
+    <link>https://quartz.jzhao.xyz/Dersler/Fizik</link>
+    <guid>https://quartz.jzhao.xyz/Dersler/Fizik</guid>
+    <description><![CDATA[ Konu-Kitap TYT 3D*ESŞBS345Karaağaç Fas.Fizik BilimineGiriş++++Madde ve Özellikleri++++Hareket+++++Kuvvet+++Enerji++Isı Sıcaklık+++Elektrostatik++Devreler++Manyetizma++Basınç++++Kaldırma Kuvveti+++++Dalgalar++Aydınlanma++++Aynalar++Işığın Kırılması++Mercekler++Renk ve Prizma++*Sarmal tesler hariç Kon... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 17:36:43 GMT</pubDate>
+  </item><item>
+    <title>Biyoloji</title>
+    <link>https://quartz.jzhao.xyz/Dersler/Biyoloji</link>
+    <guid>https://quartz.jzhao.xyz/Dersler/Biyoloji</guid>
+    <description><![CDATA[ To-Do To-DoAçıklamaSon TarihDurum Konu-Kitap AYT ApotemiDr. ]]></description>
+    <pubDate>Tue, 24 Mar 2026 17:26:29 GMT</pubDate>
+  </item><item>
+    <title>Türkçe</title>
+    <link>https://quartz.jzhao.xyz/Dersler/T%C3%BCrk%C3%A7e</link>
+    <guid>https://quartz.jzhao.xyz/Dersler/T%C3%BCrk%C3%A7e</guid>
+    <description><![CDATA[ To-Do To-DoAçıklamaSon TarihDurum Konu-Kitap 345SüreBSSözcükte Anlam++Cümlede Anlam+Paragraf~Ses++Yazım+Noktalama+Sözcükte Yapı+Sözcük Türleri+Fiiller+Cümle Türleri/YapısıAnlatım Bozukluğu Denemeler Stats Kaynaklar Soru Bankaları Bilgisarmal TYT Tür:: Soru Bankası Durum:: Boş book_id:: Bilgisarmal S... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 17:16:29 GMT</pubDate>
+  </item><item>
+    <title>Matematik</title>
+    <link>https://quartz.jzhao.xyz/Dersler/Matematik</link>
+    <guid>https://quartz.jzhao.xyz/Dersler/Matematik</guid>
+    <description><![CDATA[ To-Do To-DoAçıklamaSon TarihDurum Konu-Kitap TYT İrdeBSSBOrjinal3DTemel Kavramlar++++EBOB-EKOK++Rasyonel Sayılar+~Eşitsizlik+Mutlak Değer++Üslü++Köklü++Çarpanlara Ayırma+++Problemler+~~Mantık+Kümeler+Fonksiyonlar++++PKOB+~İstatistik+Polinomlar++2° Denklemler+++Karmaşık Sayılar++ Konu-Kitap AYT 3DOrj... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 17:15:24 GMT</pubDate>
+  </item><item>
+    <title>Misc.</title>
+    <link>https://quartz.jzhao.xyz/stats/Misc.</link>
+    <guid>https://quartz.jzhao.xyz/stats/Misc.</guid>
+    <description><![CDATA[ // lesson order const lessons = [&quot;Türkçe&quot;, &quot;Tarih&quot;, &quot;Coğrafya&quot;, &quot;Felsefe&quot;, &quot;Din&quot;, &quot;Matematik&quot;, &quot;Fizik&quot;, &quot;Kimya&quot;, &quot;Biyoloji&quot;]; // put the real subject lists here later const subjectMap = { &quot;Türkçe&quot;: [ ... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 15:51:25 GMT</pubDate>
+  </item><item>
+    <title>Matematik</title>
+    <link>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Matematik</link>
+    <guid>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Matematik</guid>
+    <description><![CDATA[ AYT ayt_mat Barış Fonksiyon Logaritma Dizi ayt_mat_barış_fonk_deneme const sectionHeader = &quot;Barış Fonksiyon Logaritma Dizi&quot;; const konular = [ &quot;Foksiyonlar&quot;, &quot;Logaritma&quot;, &quot;Dizi&quot; ]; const file = app.vault.getAbstractFileByPath(dv.current().file.path); const raw... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 12:54:49 GMT</pubDate>
+  </item><item>
+    <title>Biyoloji</title>
+    <link>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Biyoloji</link>
+    <guid>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Biyoloji</guid>
+    <description><![CDATA[ TYT tyt_biyoloji Biyoanaliz tyt_biyoloji_biyoanaliz Canlıların Ortak Özellikleri tyt_biyoloji_canlıların_ortak_özellikleri 13-2 15-1 19-1 Temel Bileşenler tyt_biyoloji_temel_bileşenler 30-8 31-1 36-10 39-2,6 47-4 49-3 50-11 56-7 57-7 Hücre tyt_biyoloji_hücre 70-7 71-1 86-7 88-11 90-10 97-4 101-3 104... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 11:58:55 GMT</pubDate>
+  </item><item>
+    <title>Türkçe</title>
+    <link>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/T%C3%BCrk%C3%A7e</link>
+    <guid>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/T%C3%BCrk%C3%A7e</guid>
+    <description><![CDATA[ Deneme Deposu Dil Bilgisi türkçe_dil_bilgisi_deneme_deposu const konular = [ &quot;Ses&quot;, &quot;Yazım&quot;, &quot;Noktalama&quot;, &quot;Ad&quot;, &quot;Sıfat&quot;, &quot;Zamir&quot;, &quot;Zarf&quot;, &quot;Edat&quot;, &quot;Bağlaç&quot;, &quot;Ünlem&quot;, &quot;Fiiller&quot;, &quot;Ek Fiill... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 11:53:34 GMT</pubDate>
+  </item><item>
+    <title>Fizik</title>
+    <link>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Fizik</link>
+    <guid>https://quartz.jzhao.xyz/Soru-K%C3%BCt%C3%BCphanesi/Kumbara/G%C3%B6zden-Ge%C3%A7ir/Fizik</guid>
+    <description><![CDATA[ AYT ayt_fizik ESŞ Fizik ayt_fizik_esş Vektörler #ayt_fizik_vektörler 17-2 İş Güç Enerji #ayt_fizik_enerji 56-5 62-6 İtme ve Momentum #ayt_fizik_momentum 67-1 68-6 Basit Makineler #ayt_fizik_basit_makineler 89-2 Elektrik Alan #ayt_fizik_elektrik_manyetizma 96-8 97-1,4 Manyetik Alan #ayt_fizik_elektri... ]]></description>
+    <pubDate>Tue, 24 Mar 2026 11:38:09 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
